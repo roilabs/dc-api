@@ -7,7 +7,6 @@ app.use(cors())
 
 app.get('/locations', function (req, res) {
     console.log('reviews was requested...');
-    //$http.get('data/locations.txt')
     res.sendFile(__dirname + '/data/locations.json');
 
 });
