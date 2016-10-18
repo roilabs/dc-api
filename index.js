@@ -1,12 +1,15 @@
 ﻿var express = require('express');
+var cors = require('cors')
 
-var app = express();
+var app = express()
+app.use(cors())
 
 
 app.get('/locations', function (req, res) {
     console.log('reviews was requested...');
-    $http.get('data/locations.txt')
-    //res.json('data/locations.txt');
+    //$http.get('data/locations.txt')
+    res.sendFile(__dirname + '/data/locations.json');
+
 });
 
 
