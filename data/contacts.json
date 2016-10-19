@@ -55,7 +55,7 @@
     },
     {
         "first_name": "John",
-        "last_name": "Schmidt",
+        "last_name": "Moran",
         "email": "eros@et.org",
         "phone": "0800 286 0038",
         "role": "Site Manager",
@@ -64,7 +64,7 @@
     },
     {
         "first_name": "Adam",
-        "last_name": "Schmidt",
+        "last_name": "Moran",
         "email": "eros@et.org",
         "phone": "0800 286 0038",
         "role": "Site Lead",
@@ -73,11 +73,83 @@
     },
     {
         "first_name": "Paul",
-        "last_name": "Schmidt",
+        "last_name": "Moran",
         "email": "eros@et.org",
         "phone": "0800 286 0038",
         "role": "Site Enginner",
-        "dc_id": 3,
-        "name": "Hong Kong"
-    }
+        "dc_id": 4,
+        "name": "Singapore"
+    },
+    {
+        "first_name": "Adam",
+        "last_name": "Moran",
+        "email": "eros@et.org",
+        "phone": "0800 286 0038",
+        "role": "Site Lead",
+        "dc_id": 4,
+        "name": "Singapore"
+    },
+    {
+        "first_name": "Paul",
+        "last_name": "Moran",
+        "email": "eros@et.org",
+        "phone": "0800 286 0038",
+        "role": "Site Enginner",
+        "dc_id": 4,
+        "name": "Singapore"
+    },
+     {
+        "first_name": "Paul",
+        "last_name": "Moran",
+        "email": "eros@et.org",
+        "phone": "0800 286 0038",
+        "role": "Site Enginner",
+        "dc_id": 5,
+        "name": "New York"
+    },
+    {
+        "first_name": "Adam",
+        "last_name": "Moran",
+        "email": "eros@et.org",
+        "phone": "0800 286 0038",
+        "role": "Site Lead",
+        "dc_id": 5,
+        "name": "New York"
+    },
+    {
+        "first_name": "Paul",
+        "last_name": "Moran",
+        "email": "eros@et.org",
+        "phone": "0800 286 0038",
+        "role": "Site Enginner",
+        "dc_id": 5,
+        "name": "New York"
+    },
+    {
+        "first_name": "Paul",
+        "last_name": "Moran",
+        "email": "eros@et.org",
+        "phone": "0800 286 0038",
+        "role": "Site Enginner",
+        "dc_id": 6,
+        "name": "Dallas"
+    },
+    {
+        "first_name": "Adam",
+        "last_name": "Moran",
+        "email": "eros@et.org",
+        "phone": "0800 286 0038",
+        "role": "Site Lead",
+        "dc_id": 6,
+        "name": "Dallas"
+    },
+    {
+        "first_name": "Paul",
+        "last_name": "Moran",
+        "email": "eros@et.org",
+        "phone": "0800 286 0038",
+        "role": "Site Enginner",
+        "dc_id": 6,
+        "name": "Dallas"
+ }
 ]
