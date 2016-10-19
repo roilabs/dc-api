@@ -11,6 +11,12 @@ app.get('/locations', function (req, res) {
 
 });
 
+app.get('/contacts', function (req, res) {
+    console.log('reviews was requested...');
+    res.sendFile(__dirname + '/data/contacts.json');
+
+});
+
 
 
 var port = process.env.PORT || 8000;
